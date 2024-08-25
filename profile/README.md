@@ -30,8 +30,8 @@ src: [Chinese](https://dhk.org/declaration/) / [English](https://dhk.org/en/decl
 - Telegram: <https://t.me/dhkdao>
 - [Published Notion page](https://dhkdao.notion.site/DHK-dao-Notion-0f071253fd9f48dd8dd31fd713644c10)
 - Check our weekly newsletters:
-  - [Chinese: 區塊鏈社會學](https://paragraph.xyz/@dhk/community/%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8)
-  - [English: WEB3DOM](https://paragraph.xyz/@dhk/community/web3dom)
+  - [Chinese: **區塊鏈社會學**](https://paragraph.xyz/@dhk/community/%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8)
+  - [English: **WEB3DOM**](https://paragraph.xyz/@dhk/community/web3dom)
 
 #### Ways to contribute
 
